@@ -1,0 +1,9 @@
+*.bin
+*.csproj
+*.suo
+*.sln
+*.user
+/obj
+/Temp
+/Library
+*.meta
